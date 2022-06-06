@@ -8,7 +8,7 @@ The entire script is handled by one `main.py` file at the root of this directory
 
 ## Usage
 
-First, set up your own keypair with AWS and enter them in the `AWS_ACCESS_KEY_ID` AND `AWS_SECRET_ACCESS_KEY` fields at the top of the script file.
+First, set up your own keypair with AWS and enter them in the `AWS_ACCESS_KEY_ID` and `AWS_SECRET_ACCESS_KEY` fields at the top of the script file.
 
 Then, from the root of this directory, run `python main.py`.
 
