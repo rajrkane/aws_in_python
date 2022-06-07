@@ -14,7 +14,7 @@ Then, from the root of this directory, run `python main.py`.
 
 ## Tasks
 
-The script accomplishes the following tasks in the specified order, as instructed in the project description:
+The script accomplishes the following tasks in the specified order:
 
 1. Loads AWS SDK with Boto3, using access information
 2. Sends a request to create an EC2 instance, one to create an S3 bucket, and one to create an SQS queue in that order
